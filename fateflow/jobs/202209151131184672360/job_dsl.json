@@ -1,0 +1,8 @@
+{
+    "components": {
+        "secure_add_example_0": {
+            "module": "SecureAddExample",
+            "provider": "fate@1.9.0"
+        }
+    }
+}

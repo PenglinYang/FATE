@@ -1,0 +1,7 @@
+using engines: {'computing': 'STANDALONE', 'federation': 'STANDALONE', 'storage': 'STANDALONE', 'federated_mode': 'SINGLE'}
+start create table SessionRecord
+create table success: SessionRecord
+start create table StorageConnectorModel
+create table success: StorageConnectorModel
+start create table StorageTableMetaModel
+create table success: StorageTableMetaModel
